@@ -1,5 +1,13 @@
 # cinema-js
 
-https://vryzhkova.github.io/cinema-js/
+# https://vryzhkova.github.io/cinema-js/
 
-cb889172fad5721a0ff850187ede4ba7
+### Выполнила проект: Рыжкова Виктория
+
+## Технологии:
+- JavaScript
+
+### Что сделали:
+- burger-menu
+- render Video
+
